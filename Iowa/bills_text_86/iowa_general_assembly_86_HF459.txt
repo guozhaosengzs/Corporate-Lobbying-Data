@@ -1,0 +1,2382 @@
+House File 459 - Introduced
+
+
+                                 HOUSE FILE 
+
+                                 HOUSE FILE 
+                                 HOUSE FILE                                  HOUSE FILE                                  BY  MAXWELL
+
+ A BILL FOR
+
+  1 An Act relating to improving the system of care for heart
+  2    attack patients throughout the state, and making an
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+
+ A BILL FOR
+
+  1 An Act relating to improving the system of care for heart
+  2    attack patients throughout the state, and making an
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+ A BILL FOR
+
+  1 An Act relating to improving the system of care for heart
+  2    attack patients throughout the state, and making an
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+
+  1 An Act relating to improving the system of care for heart
+  2    attack patients throughout the state, and making an
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 An Act relating to improving the system of care for heart
+  2    attack patients throughout the state, and making an
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2    attack patients throughout the state, and making an
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  3    appropriation.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+    TLSB 2458YH (2) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  1    Section 1.  HEART ATTACK TREATMENT == APPROPRIATION.  There
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  2 is appropriated from the general fund of the state to the
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  3 department of public health for the fiscal year beginning July
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  4 1, 2015, and ending June 30, 2016, the following amount, or
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  5 so much thereof as is necessary, to be used for the purposes
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  6 designated:
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  7    For a collaborative effort between the department of public
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  8 health, the Iowa emergency medical services association, the
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1  9 American heart association, midwest affiliate, Iowa's health
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 10 systems and hospitals, and emergency medical service providers,
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 11 to supplement funding received through a grant from the Leona
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 12 M. and Harry B. Helmsley charitable trust for a program to
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 13 enhance systems of care, save lives, and improve outcomes
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 14 for heart attack patients in rural Iowa called the mission:
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 15 lifeline program:
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 16 .................................................. $  1,000,000
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 17    Funds appropriated under this section shall be used to
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 18 enhance the critical elements of an optimal ST=elevated
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 19 myocardial infarction (STEMI) system of care including the
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 20 provision of 12=lead electrocardiogram (EKG) machines, the
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 21 provision of a systemwide data tool for quality measurement
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 22 and improvement, ongoing medical provider training and STEMI
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 23 education, coordination of protocols for rural emergency
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 24 management systems and hospital personnel, the implementation
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 25 of regional plans for rapid transport and transfer of patients,
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 26 the implementation of a public education campaign on heart
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 27 attack signs and symptoms and the need to activate the 911
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 28 system, and the provision of assistance to hospitals and
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 29 emergency medical services providers in acquiring essential
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 30 electrocardiogram equipment and training.
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 31                           EXPLANATION
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 32 The inclusion of this explanation does not constitute agreement with
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 33 the explanation's substance by the members of the general assembly.
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 34    This bill appropriates $1 million to the department
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  1 35 of public health (DPH) for FY 2015=2016 to be used for a
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  1 collaborative effort between DPH, the Iowa emergency medical
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  2 services association, the American heart association, midwest
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  3 affiliate, Iowa's health systems and hospitals, and emergency
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  4 medical services providers, to supplement funding received
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  5 through a grant from the Leona M. and Harry B. Helmsley
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  6 charitable trust for the mission: lifeline program. The
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  7 funds are to be used to enhance the critical elements of an
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  8 optimal ST=elevated myocardial infarction (STEMI) system of
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2  9 care including the provision of 12=lead electrocardiogram
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 10 (EKG) machines, the provision of a systemwide data tool for
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 11 quality measurement and improvement, ongoing medical provider
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 12 training and STEMI education, coordination of protocols for
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 13 rural emergency management systems and hospital personnel,
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 14 the implementation of regional plans for rapid transport and
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 15 transfer of patients, the implementation of a public education
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 16 campaign on heart attack signs and symptoms and the need to
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 17 activate the 911 system, and the provision of assistance to
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 18 hospitals and emergency medical services providers in acquiring
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+  2 19 essential electrocardiogram equipment and training.
+       LSB 2458YH (2) 86
+       pf/nh
+       LSB 2458YH (2) 86
+       pf/nh
+       pf/nh

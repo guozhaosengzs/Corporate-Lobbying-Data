@@ -1,0 +1,2314 @@
+Senate File 2092 - Introduced
+
+
+                                 SENATE FILE 
+
+                                 SENATE FILE 
+                                 SENATE FILE                                  SENATE FILE                                  BY  CHELGREN
+
+ A BILL FOR
+
+  1 An Act relating to the provision of integrated health home
+  2    services under Medicaid managed care, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+
+ A BILL FOR
+
+  1 An Act relating to the provision of integrated health home
+  2    services under Medicaid managed care, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+ A BILL FOR
+
+  1 An Act relating to the provision of integrated health home
+  2    services under Medicaid managed care, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+
+  1 An Act relating to the provision of integrated health home
+  2    services under Medicaid managed care, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 An Act relating to the provision of integrated health home
+  2    services under Medicaid managed care, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2    services under Medicaid managed care, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+    TLSB 5792XS (3) 87
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+    pf/rh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  1    Section 1.  PROVISION OF INTEGRATED HEALTH HOME SERVICES
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  2 UNDER MEDICAID MANAGED CARE.  The department of human services
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  3 shall amend Medicaid managed care contracts and adopt rules
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  4 pursuant to chapter 17A to require all of the following:
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  5    1.  That integrated health home services be provided
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  6 in accordance with the state plan amendment, IA=16=013,
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  7 including the requirement that comprehensive care coordination
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  8 services be provided by care coordinators who are part of the
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1  9 integrated health home's team of health care professionals
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 10 to meet provider standards and deliver health home services
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 11 to qualified members. Comprehensive care coordination for
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 12 Medicaid members receiving integrated health home services
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 13 shall not be provided in a manner other than through the use of
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 14 integrated health home provider types as specified in the state
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 15 plan amendment, and shall not be provided by the managed care
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 16 organization through internal resources or other contracted
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 17 providers.
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 18    2.  That if a Medicaid member is receiving integrated health
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 19 home services, and based on the member's array of services
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 20 would potentially have more than one case manager or care
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 21 coordinator, the member shall be provided the opportunity to
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 22 select the member's own case manager or care coordinator.
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 23 Additionally, such Medicaid member shall be allowed to change
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 24 the integrated health home provider from whom the member
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 25 receives integrated health home services.
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 26    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 27 importance, takes effect upon enactment.
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 28                           EXPLANATION
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 29 The inclusion of this explanation does not constitute agreement with
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 30 the explanation's substance by the members of the general assembly.
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 31    This bill requires the department of human services (DHS) to
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 32 amend Medicaid managed care contracts to require the following:
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 33    1.  That integrated health home services be provided
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 34 in accordance with the state plan amendment, IA=16=013,
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  1 35 including the requirement that comprehensive care coordination
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  1 services be provided by care coordinators who are part of the
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  2 integrated health home's team of health care professionals
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  3 to meet provider standards and deliver health home services
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  4 to qualified members. Comprehensive care coordination shall
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  5 not be provided in a manner other than through the use of the
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  6 integrated health home provider types as specified in the state
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  7 plan amendment, and shall not be provided by the managed care
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  8 organization through internal resources or other contracted
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2  9 providers.
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 10    2.  That if a Medicaid member is receiving integrated health
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 11 home services, and based on the member's array of services
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 12 would potentially have more than one case manager or care
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 13 coordinator, the member shall be given the opportunity to
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 14 select the member's own case manager or care coordinator.
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 15 Additionally, such Medicaid member shall be allowed to change
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 16 the integrated health home provider from whom the member
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 17 receives integrated health home services.
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+  2 18    The bill takes effect upon enactment.
+       LSB 5792XS (3) 87
+       pf/rh
+       LSB 5792XS (3) 87
+       pf/rh
+       pf/rh

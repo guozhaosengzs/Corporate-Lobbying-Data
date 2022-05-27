@@ -1,0 +1,2814 @@
+House File 346 - Introduced
+
+
+                                 HOUSE FILE 
+
+                                 HOUSE FILE 
+                                 HOUSE FILE                                  HOUSE FILE                                  BY  SEXTON
+
+ A BILL FOR
+
+  1 An Act requiring the department of natural resources to include
+  2    additional water quality criteria in the master matrix
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+
+ A BILL FOR
+
+  1 An Act requiring the department of natural resources to include
+  2    additional water quality criteria in the master matrix
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+ A BILL FOR
+
+  1 An Act requiring the department of natural resources to include
+  2    additional water quality criteria in the master matrix
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+
+  1 An Act requiring the department of natural resources to include
+  2    additional water quality criteria in the master matrix
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 An Act requiring the department of natural resources to include
+  2    additional water quality criteria in the master matrix
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2    additional water quality criteria in the master matrix
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  3    used to evaluate applications for permits to construct
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  4    confinement feeding operation structures.
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  5 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+    TLSB 2017YH (3) 87
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+    da/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  1    Section 1.  DEPARTMENT OF NATURAL RESOURCES == MASTER
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  2 MATRIX == ADDITIONAL WATER QUALITY CRITERIA.  The department
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  3 of natural resources shall revise the master matrix as
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  4 published in 567 IAC ch. 65, Appendix C to include additional
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  5 criteria in the water subcategory.  The additional criteria
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  6 shall include environmental practices used to reduce soil
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  7 erosion and sediment loss, manage nutrients and reduce
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  8 contributing contaminant loads to receiving surface waters,
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1  9 and improve surface water quality.  The new criteria shall
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 10 include edge=of=field soil and water conservation practices
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 11 or edge=of=field erosion control practices, and may include
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 12 bioreactors connected to field drainage tile lines, saturated
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 13 buffers, prairie grass strips located in drainage areas,
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 14 grassed waterways, areas devoted to permanent vegetation cover,
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 15 or wetlands.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 19    BILL'S PROVISIONS.  This bill requires the department of
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 20 natural resources to revise the master matrix used to evaluate
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 21 proposed confinement feeding operation structure sites by
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 22 including additional criteria in the water subcategory in
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 23 order to account for environmental practices used to reduce
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 24 soil erosion and sediment loss, manage nutrients and reduce
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 25 contributing contaminant loads to receiving surface waters, and
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 26 improve surface water quality.
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 27    BACKGROUND == GENERAL.  The bill refers to provisions in
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 28 the Iowa administrative code that include the master matrix as
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 29 required in Code section 459.305 of the "Animal Agriculture
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 30 Compliance Act".  A person constructing a confinement feeding
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 31 operation structure may first be required to obtain a permit
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 32 issued by the department (Code section 459.303).  A confinement
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 33 feeding operation is a location in which agricultural animals
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 34 are confined and fed in totally roofed structures for 45
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  1 35 days or more in any 12=month period and includes associated
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  1 confinement feeding operation structures such as buildings,
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  2 manure storage structures, and egg washwater storage structures
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  3 (Code section 459.102).  A permit is required if a confinement
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  4 feeding operation would have an animal unit capacity of
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  5 at least 1,000 animal units, which would equal 2,500 swine
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  6 weighing over 55 pounds (Code section 459.102), or if the
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  7 operation uses an unformed manure storage structure (Code
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  8 section 459.303).
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2  9    BACKGROUND == MASTER MATRIX.  The master matrix is a form
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 10 used as part of a process in which a person applying for a
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 11 construction permit is awarded points for agreeing to construct
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 12 the confinement feeding operation structure or use manure
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 13 management practices in a manner that exceeds specific state
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 14 law requirements (e.g., a statutory separation distance imposed
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 15 between the application of manure and a river or stream as
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 16 specified in Code section 459.314).  The master matrix is
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 17 comprised of three subcategories including impacts of the
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 18 confinement feeding operation on air, water, and the community.
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 19 A county board of supervisors that adopts a construction
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 20 evaluation resolution may evaluate the completed application
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 21 and matrix before submitting comments to the department
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 22 (Code section 459.304), which decides whether to approve or
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 23 disapprove the application and issue the permit (Code section
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+  2 24 459.303).
+       LSB 2017YH (3) 87
+       da/nh
+       LSB 2017YH (3) 87
+       da/nh
+       da/nh

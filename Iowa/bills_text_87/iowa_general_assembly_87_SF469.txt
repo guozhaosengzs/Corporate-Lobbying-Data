@@ -1,0 +1,3126 @@
+Senate File 469 - Introduced
+
+
+                                 SENATE FILE 
+
+                                 SENATE FILE 
+                                 SENATE FILE                                  SENATE FILE                                  BY  COMMITTEE ON HUMAN
+                                     RESOURCES
+
+                                 (SUCCESSOR TO SSB
+                                     1157)
+
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+                                     RESOURCES
+
+                                 (SUCCESSOR TO SSB
+                                     1157)
+
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+
+                                 (SUCCESSOR TO SSB
+                                     1157)
+
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+                                 (SUCCESSOR TO SSB
+                                     1157)
+
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+                                     1157)
+
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+ A BILL FOR
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 An Act relating to oversight of public assistance programs, and
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2    including effective date provisions.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+    TLSB 2449SV (1) 87
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+    pf/rj
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  2 VERIFICATION.  By December 15, 2017, the department of human
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  3 services shall report to the governor and the general assembly
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  4 regarding progress on contracting with a third=party vendor
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  5 to establish an electronic asset, income, and identity
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  6 eligibility verification system for the purposes of determining
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  7 or redetermining the eligibility of an individual who is an
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  8 applicant for or recipient of medical assistance under the
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1  9 Medicaid state plan on the basis of being aged, blind, or
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 10 disabled in accordance with 42 U.S.C. {1396w.
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 11    Sec. 2.  PUBLIC ASSISTANCE PROGRAMS == OVERSIGHT ==
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 12 DIRECTIVES TO DEPARTMENT OF HUMAN SERVICES.
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 13    1.  The department of human services shall review state
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 14 efforts, including pilot programs related to data sharing
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 15 between states and technology=based solutions designed to curb
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 16 interstate dual participation, to address program integrity
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 17 for public assistance programs including Medicaid, the family
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 18 investment program (FIP), the supplemental nutrition assistance
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 19 program (SNAP), and the child care assistance program. As part
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 20 of the review, the department shall explore opportunities to
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 21 join existing pilot efforts in collaboration with other states
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 22 or to develop a separate pilot effort in Iowa.
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 23    2.  By December 15, 2017, the department shall report to the
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 24 governor and the general assembly the process used in reviewing
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 25 state efforts including pilot programs, the findings from the
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 26 review including the effectiveness and return on investment of
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 27 pilot programs and other efforts reviewed, and recommendations
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 28 for potential opportunities to improve program integrity in
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 29 Iowa.
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 30    Sec. 3.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 31 immediate importance, takes effect upon enactment.
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 32                           EXPLANATION
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 33 The inclusion of this explanation does not constitute agreement with
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 34 the explanation's substance by the members of the general assembly.
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  1 35    This bill relates to oversight of public assistance
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  1 programs. The bill directs the department of human services
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  2 (DHS) by December 15, 2017, to report to the governor and
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  3 the general assembly regarding progress on contracting
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  4 with a third=party vendor to establish an electronic asset,
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  5 income, and identity eligibility verification system for the
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  6 purposes of determining or redetermining the eligibility of
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  7 an individual who is an applicant for or recipient of medical
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  8 assistance under the Medicaid state plan on the basis of being
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2  9 aged, blind, or disabled.
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 10    The bill also directs DHS to review state efforts, including
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 11 pilot programs related to data sharing between states and
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 12 technology=based solutions designed to curb interstate
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 13 dual participation, to address program integrity for public
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 14 assistance programs including Medicaid, the family investment
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 15 program (FIP), the supplemental nutrition assistance program
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 16 (SNAP), and the child care assistance program. As part of
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 17 the review, DHS shall explore opportunities to join existing
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 18 pilot efforts in collaboration with other states or to develop
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 19 a separate pilot effort in Iowa. The bill requires DHS by
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 20 December 15, 2017, to report to the governor and the general
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 21 assembly the process used in reviewing state efforts including
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 22 pilot programs, the findings from the review including the
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 23 effectiveness and return on investment of pilot programs and
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 24 other efforts reviewed, and recommendations for potential
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 25 opportunities to improve program integrity in Iowa.
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+  2 26    The bill takes effect upon enactment.
+       LSB 2449SV (1) 87
+       pf/rj
+       LSB 2449SV (1) 87
+       pf/rj
+       pf/rj

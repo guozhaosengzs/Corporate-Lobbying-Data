@@ -1,0 +1,2382 @@
+Senate File 2140 - Introduced
+
+
+                                 SENATE FILE 
+
+                                 SENATE FILE 
+                                 SENATE FILE                                  SENATE FILE                                  BY  MATHIS
+
+ A BILL FOR
+
+  1 An Act relating to the provision of an appeals process for
+  2    Medicaid managed care members following a supports intensity
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+
+ A BILL FOR
+
+  1 An Act relating to the provision of an appeals process for
+  2    Medicaid managed care members following a supports intensity
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+ A BILL FOR
+
+  1 An Act relating to the provision of an appeals process for
+  2    Medicaid managed care members following a supports intensity
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+
+  1 An Act relating to the provision of an appeals process for
+  2    Medicaid managed care members following a supports intensity
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 An Act relating to the provision of an appeals process for
+  2    Medicaid managed care members following a supports intensity
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2    Medicaid managed care members following a supports intensity
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  3    scale assessment, and including effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+    TLSB 6117XS (3) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  1    Section 1.  MEDICAID MANAGED CARE == SUPPORTS INTENSITY
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  2 SCALE ASSESSMENT OF MEDICAID MEMBER == APPEALS PROCESS ==
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  3 EXPEDITED FIRST=LEVEL REVIEW.  The department of human services
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  4 shall adopt rules pursuant to chapter 17A and shall amend
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  5 any existing Medicaid managed care contracts to provide an
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  6 appeals process, in accordance with contested case proceedings
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  7 pursuant to chapter 17A, for Medicaid managed care (Medicaid)
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  8 members for whom an assessment utilizing the supports intensity
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1  9 scale (SIS) is required. The appeals process may be utilized
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 10 if the Medicaid member, the Medicaid member's authorized
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 11 representative, or a provider who is acting on behalf of
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 12 the Medicaid member, disagrees with the results of the SIS
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 13 assessment or disputes the accuracy of the resulting score,
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 14 believes the SIS assessment does not adequately reflect the
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 15 member's needs, or if the member's needs change.  The process
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 16 shall provide that following an SIS assessment, the Medicaid
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 17 member, the Medicaid member's authorized representative, or
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 18 a provider who is acting on behalf of the Medicaid member,
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 19 may appeal the results of the assessment to the department
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 20 at any time, following the exhaustion of the expedited
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 21 Medicaid managed care organization first=level review process,
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 22 when the Medicaid member, the Medicaid member's authorized
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 23 representative, or a provider who is acting on behalf of the
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 24 Medicaid member, is dissatisfied with the notice of decision
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 25 resulting from such review.  The rules adopted and the
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 26 amendment to any Medicaid managed care contract shall require
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 27 that the expedited first=level review be completed and the
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 28 notice of decision be issued by the managed care organization
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 29 within thirty days of receipt by the managed care organization
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 30 of the request for a first=level review.
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 31    Sec. 2.  EFFECTIVE DATE.  This Act, being deemed of immediate
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 32 importance, takes effect upon enactment.
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 33                           EXPLANATION
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 34 The inclusion of this explanation does not constitute agreement with
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  1 35 the explanation's substance by the members of the general assembly.
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  1 This bill relates to the provision of an appeals process
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  2 relating to the results of assessments of Medicaid managed care
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  3 members utilizing the supports intensity scale (SIS).  The
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  4 bill requires the department of human services (DHS) to  adopt
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  5 administrative rules and amend any existing Medicaid managed
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  6 care contracts to provide an appeals process, in accordance
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  7 with contested case proceedings pursuant to Code chapter
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  8 17A, for Medicaid managed care (Medicaid) members for whom
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2  9 an assessment utilizing the SIS assessment is required. The
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 10 process may be utilized if the Medicaid member, the Medicaid
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 11 member's authorized representative, or a provider who is acting
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 12 on behalf of the Medicaid member, disagrees with the results
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 13 of the assessment or disputes the accuracy of the resulting
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 14 score, believes the assessment does not adequately reflect
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 15 the member's needs, or if the member's needs change.  The
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 16 appeals process may be utilized following the exhaustion of
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 17 the expedited Medicaid managed care organization's first=level
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 18 review process.
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+  2 19    The bill takes effect upon enactment.
+       LSB 6117XS (3) 87
+       pf/rn
+       LSB 6117XS (3) 87
+       pf/rn
+       pf/rn

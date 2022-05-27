@@ -1,0 +1,2272 @@
+Senate File 2286 - Introduced
+
+
+                                 SENATE FILE 
+
+                                 SENATE FILE 
+                                 SENATE FILE                                  SENATE FILE                                  BY  BOWMAN
+
+ A BILL FOR
+
+  1 An Act providing for internet neutrality, and making penalties
+  2    applicable.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  
+ A BILL FOR
+
+  1 An Act providing for internet neutrality, and making penalties
+  2    applicable.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.   A BILL FOR
+
+  1 An Act providing for internet neutrality, and making penalties
+  2    applicable.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  
+  1 An Act providing for internet neutrality, and making penalties
+  2    applicable.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.    1 An Act providing for internet neutrality, and making penalties
+  2    applicable.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.    2    applicable.
+  3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.    3 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.      TLSB 5756XS (3) 87
+    gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.      gh/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  
+
+  1  1    Section 1.  
+  1  1    Section 1.    1  1    Section 1.    1  2    This chapter shall be known and may be cited as the "Iowa
+  1  3 Internet Neutrality Act".
+  1  4    Sec. 2.    1  3 Internet Neutrality Act".
+  1  4    Sec. 2.    1  4    Sec. 2.    1  5    As used in this chapter, unless the context otherwise
+  1  6 requires:
+  1  7    1.  "Broadband" means the same as defined in section 8B.1.
+  1  8    2.  "Communications service provider" means the same as
+  1  9 defined in section 8B.1.
+  1 10    3.  "Content, applications, or services" means any internet
+  1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1  6 requires:
+  1  7    1.  "Broadband" means the same as defined in section 8B.1.
+  1  8    2.  "Communications service provider" means the same as
+  1  9 defined in section 8B.1.
+  1 10    3.  "Content, applications, or services" means any internet
+  1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1  7    1.  "Broadband" means the same as defined in section 8B.1.
+  1  8    2.  "Communications service provider" means the same as
+  1  9 defined in section 8B.1.
+  1 10    3.  "Content, applications, or services" means any internet
+  1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1  8    2.  "Communications service provider" means the same as
+  1  9 defined in section 8B.1.
+  1 10    3.  "Content, applications, or services" means any internet
+  1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1  9 defined in section 8B.1.
+  1 10    3.  "Content, applications, or services" means any internet
+  1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 10    3.  "Content, applications, or services" means any internet
+  1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 11 traffic transmitted to or from an end user.
+  1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 12    4.  "Edge provider" means a person or entity that provides
+  1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 13 any content, application, or service over the internet, or a
+  1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 14 person or entity that provides a device used for accessing any
+  1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 15 content, application, or service over the internet.
+  1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 16    5.  "End user" means a person who uses broadband service.
+  1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 17    6.  "Internet traffic" means the flow of data across the
+  1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 18 internet.
+  1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 19    7.  "Paid prioritization" means a business practice that
+  1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 20 directly or indirectly favors certain internet traffic
+  1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 21 over other internet traffic, including through the use of
+  1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 22 techniques such as internet traffic shaping, prioritization,
+  1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 23 resource reservation, or other forms of preferential internet
+  1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 24 traffic management, either in exchange for monetary or other
+  1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 25 consideration from a third party or to benefit an affiliated
+  1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 26 entity.
+  1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 27    8.  "Person" means the same as defined in section 554D.103.
+  1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 28    9.  "Reasonable network management practice" means a practice
+  1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 29 that is primarily used for and tailored to achieving a
+  1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 30 legitimate technical network management purpose, taking into
+  1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 31 account the particular network architecture and technology of
+  1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 32 the broadband service, but does not include other business
+  1 33 practices.
+  1 34    Sec. 3.    1 33 practices.
+  1 34    Sec. 3.    1 34    Sec. 3.    1 35    A communications service provider shall make available to
+  2  1 the public informational materials which accurately explain the
+  2  2 communications service provider's reasonable network management
+  2  3 practices, performance, and commercial terms of its broadband
+  2  4 service, including information about and descriptions of the
+  2  5 processes involved relating to such services.
+  2  6    Sec. 4.    2  1 the public informational materials which accurately explain the
+  2  2 communications service provider's reasonable network management
+  2  3 practices, performance, and commercial terms of its broadband
+  2  4 service, including information about and descriptions of the
+  2  5 processes involved relating to such services.
+  2  6    Sec. 4.    2  2 communications service provider's reasonable network management
+  2  3 practices, performance, and commercial terms of its broadband
+  2  4 service, including information about and descriptions of the
+  2  5 processes involved relating to such services.
+  2  6    Sec. 4.    2  3 practices, performance, and commercial terms of its broadband
+  2  4 service, including information about and descriptions of the
+  2  5 processes involved relating to such services.
+  2  6    Sec. 4.    2  4 service, including information about and descriptions of the
+  2  5 processes involved relating to such services.
+  2  6    Sec. 4.    2  5 processes involved relating to such services.
+  2  6    Sec. 4.    2  6    Sec. 4.    2  7    A communications service provider shall not do any of the
+  2  8 following:
+  2  9    1.  Block lawful content, applications, services, or
+  2 10 nonharmful devices, unless pursuant to a reasonable network
+  2 11 management practice.
+  2 12    2.  Impair or degrade lawful internet traffic on the basis
+  2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2  8 following:
+  2  9    1.  Block lawful content, applications, services, or
+  2 10 nonharmful devices, unless pursuant to a reasonable network
+  2 11 management practice.
+  2 12    2.  Impair or degrade lawful internet traffic on the basis
+  2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2  9    1.  Block lawful content, applications, services, or
+  2 10 nonharmful devices, unless pursuant to a reasonable network
+  2 11 management practice.
+  2 12    2.  Impair or degrade lawful internet traffic on the basis
+  2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 10 nonharmful devices, unless pursuant to a reasonable network
+  2 11 management practice.
+  2 12    2.  Impair or degrade lawful internet traffic on the basis
+  2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 11 management practice.
+  2 12    2.  Impair or degrade lawful internet traffic on the basis
+  2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 12    2.  Impair or degrade lawful internet traffic on the basis
+  2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 13 of content, applications, services, or the use of nonharmful
+  2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 14 devices, unless pursuant to a reasonable network management
+  2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 15 practice.
+  2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 16    3.  Engage in paid prioritization.
+  2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 17    4.  Interfere with or disadvantage the ability of an end user
+  2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 18 to select, access, or use broadband service, unless pursuant to
+  2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 19 a reasonable network management practice.
+  2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 20    5.  Interfere with or disadvantage the ability of an edge
+  2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 21 provider to make lawful content, applications, services, or
+  2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 22 nonharmful devices available to an end user, unless pursuant to
+  2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 23 a reasonable network management practice.
+  2 24    Sec. 5.    2 24    Sec. 5.    2 25    This chapter shall not apply to any of the following:
+  2 26    1.  Conduct authorized by a law enforcement agency of the
+  2 27 United States, a state, or a political subdivision of a state.
+  2 28    2.  Reasonable efforts by a communications service provider
+  2 29 to address copyright infringement or any other unlawful
+  2 30 activity.
+  2 31    Sec. 6.    2 26    1.  Conduct authorized by a law enforcement agency of the
+  2 27 United States, a state, or a political subdivision of a state.
+  2 28    2.  Reasonable efforts by a communications service provider
+  2 29 to address copyright infringement or any other unlawful
+  2 30 activity.
+  2 31    Sec. 6.    2 27 United States, a state, or a political subdivision of a state.
+  2 28    2.  Reasonable efforts by a communications service provider
+  2 29 to address copyright infringement or any other unlawful
+  2 30 activity.
+  2 31    Sec. 6.    2 28    2.  Reasonable efforts by a communications service provider
+  2 29 to address copyright infringement or any other unlawful
+  2 30 activity.
+  2 31    Sec. 6.    2 29 to address copyright infringement or any other unlawful
+  2 30 activity.
+  2 31    Sec. 6.    2 30 activity.
+  2 31    Sec. 6.    2 31    Sec. 6.    2 32    A violation of this chapter is an unlawful practice pursuant
+  2 33 to section 714.16.
+  2 34                           EXPLANATION
+  2 35 The inclusion of this explanation does not constitute agreement with
+  3  1 the explanation's substance by the members of the general assembly.
+  3  2    This bill creates new Code chapter 554E, relating to
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  2 33 to section 714.16.
+  2 34                           EXPLANATION
+  2 35 The inclusion of this explanation does not constitute agreement with
+  3  1 the explanation's substance by the members of the general assembly.
+  3  2    This bill creates new Code chapter 554E, relating to
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  2 34                           EXPLANATION
+  2 35 The inclusion of this explanation does not constitute agreement with
+  3  1 the explanation's substance by the members of the general assembly.
+  3  2    This bill creates new Code chapter 554E, relating to
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  2 35 The inclusion of this explanation does not constitute agreement with
+  3  1 the explanation's substance by the members of the general assembly.
+  3  2    This bill creates new Code chapter 554E, relating to
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  1 the explanation's substance by the members of the general assembly.
+  3  2    This bill creates new Code chapter 554E, relating to
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  2    This bill creates new Code chapter 554E, relating to
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  3 internet neutrality.
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  4    The bill requires a communications service provider to make
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  5 available to the public informational materials accurately
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  6 explaining the provider's reasonable network management
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  7 practices, performance, and commercial terms of its broadband
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  8 service, including information relating to the processes
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3  9 involved for such services. The bill defines "communications
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 10 service provider" to mean the same as defined in section 8B.1.
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 11 "Broadband" also means the same as defined in Code section
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 12 8B.1. "End user" means a person who uses broadband service.
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 13    The bill prohibits communications service providers from
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 14 blocking lawful content, applications, services, or nonharmful
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 15 devices, unless pursuant to a reasonable network management
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 16 practice. The bill defines "reasonable network management
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 17 practice" to mean a practice that is primarily used for and
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 18 tailored to achieving a legitimate technical network management
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 19 purpose.
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 20    The bill prohibits communications service providers from
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 21 impairing or degrading lawful internet traffic on the basis
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 22 of content, applications, services, or the use of nonharmful
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 23 devices, unless pursuant to a reasonable network management
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 24 practice. The bill also prohibits communications service
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 25 providers from engaging in paid prioritization, as defined
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 26 in the bill. The bill further prohibits communications
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 27 service providers from interfering with or disadvantaging the
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 28 ability of an end user to select, access, or use broadband
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 29 service, unless pursuant to a reasonable network management
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 30 practice. The bill additionally prohibits communications
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 31 service providers from interfering with or disadvantaging the
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 32 ability of edge providers, as defined in the bill, from making
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 33 lawful content, applications, services, or nonharmful devices
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 34 available to an end user, unless pursuant to a reasonable
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  3 35 network management practice.
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  1 The bill does not apply to conduct authorized by any state
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  2 or federal law enforcement agency or reasonable efforts
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  3 by a communications service provider to address copyright
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  4 infringement or any other unlawful activity.
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  5    A violation of the bill constitutes an unlawful practice
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  6 under Code section 714.16, which relates to consumer frauds.
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  7 Pursuant to Code section 714.16, the attorney general may
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  8 investigate, issue subpoenas, and commence civil proceedings
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4  9 seeking restraining orders or injunctions prohibiting persons
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4 10 from engaging in unlawful practices or seeking termination
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4 11 of the business affairs of a person engaging in unlawful
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4 12 practices. In addition, a civil penalty of up to $40,000 per
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4 13 violation may be imposed by a court against a person found to
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+  4 14 have committed an unlawful practice.
+       LSB 5756XS (3) 87
+       gh/rn
+       LSB 5756XS (3) 87
+       gh/rn
+       gh/rn

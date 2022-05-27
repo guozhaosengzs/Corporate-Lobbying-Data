@@ -1,0 +1,1467 @@
+House File 258 - Introduced
+
+
+                                 HOUSE FILE 
+
+                                 HOUSE FILE 
+                                 HOUSE FILE                                  HOUSE FILE                                  BY  HEATON
+
+ A BILL FOR
+
+  1 An Act relating to required asset, income, and identity
+  2    verification for the Medicaid program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+
+ A BILL FOR
+
+  1 An Act relating to required asset, income, and identity
+  2    verification for the Medicaid program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+ A BILL FOR
+
+  1 An Act relating to required asset, income, and identity
+  2    verification for the Medicaid program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+
+  1 An Act relating to required asset, income, and identity
+  2    verification for the Medicaid program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 An Act relating to required asset, income, and identity
+  2    verification for the Medicaid program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  2    verification for the Medicaid program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+    TLSB 2251YH (2) 87
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  1    Section 1.  MEDICAID PROGRAM == ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  3 request for proposals to contract with a third=party vendor
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  4 to establish an electronic asset, income, and identity
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  5 eligibility verification system for the purposes of determining
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  6 or redetermining the eligibility of an individual who is
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  7 an applicant for or recipient of medical assistance under
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  8 the Medicaid state plan on the basis of being aged, blind,
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1  9 or disabled in accordance with 42 U.S.C. {1396w. The
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 10 third=party vendor selected shall be able to demonstrate in
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 11 writing its current relationships or contracts with financial
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 12 institutions in the state and nationally. Participation by
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 13 financial institutions in providing account balances for
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 14 asset verification shall remain voluntary. The department of
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 15 human services shall submit a progress report, by September
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 16 1, 2017,  to the chairpersons and ranking members of the joint
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 17 appropriations subcommittee on health and human services, the
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 18 legislative services agency, and the legislative caucus staffs.
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 19    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 20 immediate importance, takes effect upon enactment.
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 21                           EXPLANATION
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 22 The inclusion of this explanation does not constitute agreement with
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 23 the explanation's substance by the members of the general assembly.
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 24    This bill requires the department of human services (DHS) to
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 25 issue a request for proposals to contract with a third=party
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 26 vendor to establish an electronic asset, income, and identity
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 27 eligibility verification system to determine or redetermine
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 28 the eligibility of an individual who is an applicant for or
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 29 recipient of Medicaid on the basis of being aged, blind, or
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 30 disabled. The third=party vendor selected shall be able to
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 31 demonstrate in writing its current relationships or contracts
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 32 with financial institutions in the state and nationally.
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 33 Participation by financial institutions in providing account
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 34 balances for asset verification shall remain voluntary. DHS
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  1 35 is required to submit a progress report, by September 1,
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  2  1 2017, to the chairpersons and ranking members of the joint
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  2  2 appropriations subcommittee on health and human services, the
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  2  3 legislative services agency, and the legislative caucus staffs.
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+  2  4    The bill takes effect upon enactment.
+       LSB 2251YH (2) 87
+       pf/nh
+       LSB 2251YH (2) 87
+       pf/nh
+       pf/nh

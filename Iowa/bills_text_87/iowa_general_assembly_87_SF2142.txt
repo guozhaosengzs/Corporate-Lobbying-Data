@@ -1,0 +1,2595 @@
+Senate File 2142 - Introduced
+
+
+                                 SENATE FILE 
+
+                                 SENATE FILE 
+                                 SENATE FILE                                  SENATE FILE                                  BY  RAGAN, JOCHUM, MATHIS,
+                                     and PETERSEN
+
+ A BILL FOR
+
+  1 An Act relating to reimbursement for dually eligible Medicare
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+                                     and PETERSEN
+
+ A BILL FOR
+
+  1 An Act relating to reimbursement for dually eligible Medicare
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+
+ A BILL FOR
+
+  1 An Act relating to reimbursement for dually eligible Medicare
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+ A BILL FOR
+
+  1 An Act relating to reimbursement for dually eligible Medicare
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+
+  1 An Act relating to reimbursement for dually eligible Medicare
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 An Act relating to reimbursement for dually eligible Medicare
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2    and Medicaid beneficiaries receiving the Medicare hospice
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  3    benefit in a nursing facility.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+    TLSB 5864XS (5) 87
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+    pf/rn
+
+PAG LIN
+
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  1    Section 1.  DUALLY ELIGIBLE MEDICARE AND MEDICAID
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  2 BENEFICIARIES RECEIVING HOSPICE BENEFIT IN A NURSING FACILITY
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  3 ==== OPTIONS FOR ELIMINATION OF PASS=THROUGH PAYMENT.  The
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  4 department of human services shall pursue options for the
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  5 payment of the nursing facility room and board expenses for
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  6 a dually eligible Medicare and Medicaid member receiving the
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  7 Medicare hospice benefit, to allow Medicaid managed care
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  8 organizations to reimburse the nursing facility directly
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1  9 for the room and board expenses rather than indirectly as
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 10 a pass=through payment from the hospice services provider.
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 11 The department of human services shall report all options
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 12 identified to the chairpersons and ranking members of the joint
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 13 appropriations subcommittee on health and human services, the
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 14 legislative services agency, and the legislative caucus staffs
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 15 on or before October 1, 2018.
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 16                           EXPLANATION
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 17 The inclusion of this explanation does not constitute agreement with
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 18 the explanation's substance by the members of the general assembly.
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 19    This bill requires the department of human services (DHS)
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 20 to pursue options for the payment of the nursing facility room
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 21 and board expenses for a dually eligible Medicare and Medicaid
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 22 member receiving the Medicare hospice benefit, to allow
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 23 Medicaid managed care organizations to reimburse the nursing
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 24 facility directly for the room and board expenses rather
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 25 than indirectly as a pass=through payment from the hospice
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 26 services provider. DHS is required to report all options
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 27 identified to the chairpersons and ranking members of the joint
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 28 appropriations subcommittee on health and human services, the
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 29 legislative services agency, and the legislative caucus staffs
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 30 on or before October 1, 2018.
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 31    Currently, the Medicare hospice benefit covers the costs of
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 32 palliative care for an individual who is terminally ill in the
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 33 individual's home or in a nursing facility.  Medicare does not
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 34 have a long=term custodial nursing facility benefit, so that if
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  1 35 an individual elects the Medicare hospice benefit in a nursing
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  1 facility, the individual's room and board are not covered by
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  2 Medicare and the individual or a third=party payor must pay for
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  3 the costs of the room and board.  For those individuals dually
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  4 eligible for Medicare and Medicaid who elect the Medicare
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  5 hospice benefit, Medicare is financially responsible for the
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  6 hospice care and the Medicaid program is the third=party payor
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  7 responsible for the nursing facility room and board expense.
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  8 For the nursing facility room and board care, the Medicaid
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2  9 program must provide for payment in an amount equal to at
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 10 least 95 percent of the Medicaid daily nursing facility rate
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 11 (the rate the state Medicaid program pays for nursing facility
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 12 services furnished to an individual who has not elected to
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 13 receive hospice care). Historically, the Medicaid program
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 14 has paid the hospice provider for the nursing facility room
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 15 and board expenses of dually eligible individuals who elect
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 16 the hospice benefit, and the hospice provider has then passed
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 17 through this payment to the nursing facility.  The bill would
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 18 require DHS to pursue options to instead allow Medicaid managed
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 19 care organizations to pay the nursing facility directly for
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 20 the nursing facility room and board costs, and eliminate the
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+  2 21 pass=through payment utilizing the hospice provider.
+       LSB 5864XS (5) 87
+       pf/rn
+       LSB 5864XS (5) 87
+       pf/rn
+       pf/rn

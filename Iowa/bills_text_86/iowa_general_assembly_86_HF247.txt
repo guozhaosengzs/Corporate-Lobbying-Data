@@ -1,0 +1,991 @@
+House File 247 - Introduced
+
+
+                                 HOUSE FILE 
+
+                                 HOUSE FILE 
+                                 HOUSE FILE                                  HOUSE FILE                                  BY  COMMITTEE ON HUMAN
+                                     RESOURCES
+
+                                 (SUCCESSOR TO HSB 62)
+
+ A BILL FOR
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+                                     RESOURCES
+
+                                 (SUCCESSOR TO HSB 62)
+
+ A BILL FOR
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+
+                                 (SUCCESSOR TO HSB 62)
+
+ A BILL FOR
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+                                 (SUCCESSOR TO HSB 62)
+
+ A BILL FOR
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+
+ A BILL FOR
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+ A BILL FOR
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 An Act relating to the establishment of an asset verification
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  2    system for the medical assistance program, and including
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  3    effective date provisions.
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  4 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF IOWA:
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+    TLSB 1656HV (3) 86
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+    pf/nh
+
+PAG LIN
+
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  1    Section 1.  MEDICAID PROGRAM ==== ASSET, INCOME, AND IDENTITY
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  2 VERIFICATION.  The department of human services shall issue a
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  3 request for proposals to contract with a third=party vendor to
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  4 establish an electronic asset, income, and identity eligibility
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  5 verification system for the purposes of compliance with 42
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  6 U.S.C. {1396w requiring determination or redetermination of
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  7 the eligibility of an individual who is an applicant for or
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  8 recipient of medical assistance under the Medicaid state plan
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1  9 on the basis of being aged, blind, or disabled in accordance
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 10 with 42 U.S.C. {1396w. The third=party vendor selected shall
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 11 be able to demonstrate in writing its current relationships
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 12 or contracts with financial institutions in the state and
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 13 nationally. Participation by financial institutions in
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 14 providing account balances for asset verification shall remain
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 15 voluntary.
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 16    Sec. 2.  EFFECTIVE UPON ENACTMENT.  This Act, being deemed of
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 17 immediate importance, takes effect upon enactment.
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 18                           EXPLANATION
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 19 The inclusion of this explanation does not constitute agreement with
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 20 the explanation's substance by the members of the general assembly.
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 21    This bill directs DHS to issue a request for proposals to
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 22 contract with a third=party vendor to establish an electronic
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 23 asset, income, and identity eligibility verification system to
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 24 comply with a federal requirement to determine and redetermine
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 25 the eligibility of certain categories of persons for Medicaid.
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+  1 26 The bill takes effect upon enactment.
+       LSB 1656HV (3) 86
+       pf/nh
+       LSB 1656HV (3) 86
+       pf/nh
+       pf/nh
