@@ -1,58 +1,58 @@
-Topic,Subtopic, Code, Description
-Macroeconomics, General,100, general domestic macroeconomic policy
-Macroeconomics, Interest Rates,101," inflation, cost of living, prices, and interest rates"
-Macroeconomics, Unemployment Rate,103," the unemployment rate, impact of unemployment"
-Macroeconomics, Monetary Policy,104," the monetary policy, central bank, and the treasury"
-Macroeconomics, National Budget,105," public debt, budgeting, and efforts to reduce deficits"
-Macroeconomics, Tax Code,107," tax policy, the impact of taxes, and tax enforcement"
-Macroeconomics, Industrial Policy,108," manufacturing policy, industrial revitalization and growth"
-Macroeconomics, Price Control,110," wage or price control, emergency price controls"
-Macroeconomics, Other,199, other macroeconomics subtopics
-Civil Rights, General,200, general civil rights and minority rights
-Civil Rights, Minority Discrimination,201," minority, ethnic, and racial group discrimination"
-Civil Rights, Gender Discrimination,202," sex, gender, and sexual orientation discrimination"
-Civil Rights, Age Discrimination,204," age discrimination, including mandatory retirement age policies"
-Civil Rights, Handicap Discrimination,205, handcap and disease discrimination
-Civil Rights, Voting Rights,206," voting rights, expanding or contracting the franchise, participation and related issues"
-Civil Rights, Freedom of Speech,207," freedom of speech, religious freedoms, and other types of freedom of expression"
-Civil Rights, Right to Privacy,208," privacy rights, including privacy of records, access to government information, and abortion rights"
-Civil Rights, Anti-Government,209," anti-government activity groups, such as the communist party and local insurgency groups"
-Civil Rights, Other,299, other civil rights subtopics
-Health, General,300," general health care, including appropriations for general health care government agencies"
-Health, Health Care Reform,301," broad, comprehensive changes in the health care system"
-Health, Insurance,302," health insurance reform, regulation, availability, and cost"
-Health, Drug Industry,321," the regulation and promotion of pharaceuticals, medical devices, and clinical labs"
-Health, Medical Facilities,322," facilities construction, regulaton and payments, including waitlists and ambulance services"
-Health, Insurance Providers,323," provider and insurer payments and regulation, including other types of benefits or multple benefits"
-Health, Medical Liability,324," medical liability, malpractice issues, medical fraud and abuse, and unfair practices"
-Health, Manpower,325," the supply and quantity of labor in the health care industry, training and licensing"
-Health, Disease Prevention,331," disease prevention, treatment, and health promotion, including specific diseases not covered in other subtopics"
-Health, Infants and Children,332," infants and children, including coverage and quality of care, health promotion, and school health programs"
-Health, Mental,333, mental health care and mental health disease
-Health, Long-term Care,334," long term care, home health care, the terminally ill, and rehabilitation services"
-Health, Drug Coverage and Cost,335," prescription drug coverage, programs to pay for prescription drugs, and policy to reduce the cost of prescription drugs"
-Health, Tobacco Abuse,341," tobacco abuse, treatment, education, and health effects"
-Health, Drug and Alcohol Abuse,342," alcohol and illegal drug abuse, treatment, education, and health effects"
-Health, R&D,398, health care research and development
-Health, Other,399, other health care topics
-Agriculture, General,400," general agriculture policy, including appropriations for general agriculture government agencies"
-Agriculture, Trade,401, the regulation and impact of agricultural foreign trade
-Agriculture, Subsidies to Farmers,402," government subsidies to farmers and ranchers, including agricultural disaster insurance"
-Agriculture, Food Inspection & Safety,403," food inspection and safety, including seafood, and labeling requirements"
-Agriculture, Marketing & Promotion,404, efforts to provide information on agricultural products to consumers and the regulation of agricultural marketing
-Agriculture, Animal and Crop Disease,405," animal and crop disease, pest control and pesticide regulation, and welfare for domesticated animals"
-Agriculture, Fisheries & Fishing,408," fishing, commercial fishery regulation and conservation"
-Agriculture, R&D,498, agricultural research and development
-Agriculture, Other,499, other agricultural subtopics
-Labor, General,500," general labor, employment, and pensions, including appropriations for government agencies regulating labor polic"
-Labor, Worker Safety,501, worker safety and protection and compensation for work-related injury and disease
-Labor, Employment Training,502," job training for adult workers, workforce development, and efforts to retrain displaced workers"
-Labor, Employee Benefits,503," all employee benefits, pensions, and retirement accounts, including government-provided unemployment insurance"
-Labor, Labor Unions,504," labor unions, collective bargaining, and employer-employee relations"
-Labor, Fair Labor Standards,505," fair labor standards such as the minimum wage and overtime compensation, and labor law"
-Labor, Youth Employment,506," youth employment, child labor and job training for youths"
-Labor, Migrant and Seasonal,529," migrant, guest and seasonal workers"
-Labor, Other,599, other labor policy
+Topic,Subtopic,Code,Description
+Macroeconomics,General,100,general domestic macroeconomic policy
+Macroeconomics,Interest Rates,101,"inflation, cost of living, prices, and interest rates"
+Macroeconomics,Unemployment Rate,103,"the unemployment rate, impact of unemployment"
+Macroeconomics,Monetary Policy,104,"the monetary policy, central bank, and the treasury"
+Macroeconomics,National Budget,105,"public debt, budgeting, and efforts to reduce deficits"
+Macroeconomics,Tax Code,107,"tax policy, the impact of taxes, and tax enforcement"
+Macroeconomics,Industrial Policy,108,"manufacturing policy, industrial revitalization and growth"
+Macroeconomics,Price Control,110,"wage or price control, emergency price controls"
+Macroeconomics,Other,199,other macroeconomics subtopics
+Civil Rights,General,200,general civil rights and minority rights
+Civil Rights,Minority Discrimination,201,"minority, ethnic, and racial group discrimination"
+Civil Rights,Gender Discrimination,202,"sex, gender, and sexual orientation discrimination"
+Civil Rights,Age Discrimination,204,"age discrimination, including mandatory retirement age policies"
+Civil Rights,Handicap Discrimination,205, handcap and disease discrimination
+Civil Rights,Voting Rights,206,"voting rights, expanding or contracting the franchise, participation and related issues"
+Civil Rights,Freedom of Speech,207,"freedom of speech, religious freedoms, and other types of freedom of expression"
+Civil Rights,Right to Privacy,208,"privacy rights, including privacy of records, access to government information, and abortion rights"
+Civil Rights,Anti-Government,209,"anti-government activity groups, such as the communist party and local insurgency groups"
+Civil Rights,Other,299,other civil rights subtopics
+Health,General,300,"general health care, including appropriations for general health care government agencies"
+Health,Health Care Reform,301,"broad, comprehensive changes in the health care system"
+Health,Insurance,302,"health insurance reform, regulation, availability, and cost"
+Health,Drug Industry,321,"the regulation and promotion of pharaceuticals, medical devices, and clinical labs"
+Health,Medical Facilities,322,"facilities construction, regulaton and payments, including waitlists and ambulance services"
+Health,Insurance Providers,323,"provider and insurer payments and regulation, including other types of benefits or multple benefits"
+Health,Medical Liability,324,"medical liability, malpractice issues, medical fraud and abuse, and unfair practices"
+Health,Manpower,325,"the supply and quantity of labor in the health care industry, training and licensing"
+Health,Disease Prevention,331,"disease prevention, treatment, and health promotion, including specific diseases not covered in other subtopics"
+Health,Infants and Children,332,"infants and children, including coverage and quality of care, health promotion, and school health programs"
+Health,Mental,333,mental health care and mental health disease
+Health,Long-term Care,334,"long term care, home health care, the terminally ill, and rehabilitation services"
+Health,Drug Coverage and Cost,335,"prescription drug coverage, programs to pay for prescription drugs, and policy to reduce the cost of prescription drugs"
+Health,Tobacco Abuse,341,"tobacco abuse, treatment, education, and health effects"
+Health,Drug and Alcohol Abuse,342,"alcohol and illegal drug abuse, treatment, education, and health effects"
+Health,R&D,398,health care research and development
+Health,Other,399,other health care topics
+Agriculture,General,400,"general agriculture policy, including appropriations for general agriculture government agencies"
+Agriculture,Trade,401,the regulation and impact of agricultural foreign trade
+Agriculture,Subsidies to Farmers,402,"government subsidies to farmers and ranchers, including agricultural disaster insurance"
+Agriculture,Food Inspection & Safety,403,"food inspection and safety, including seafood, and labeling requirements"
+Agriculture,Marketing & Promotion,404,efforts to provide information on agricultural products to consumers and the regulation of agricultural marketing
+Agriculture,Animal and Crop Disease,405,"animal and crop disease, pest control and pesticide regulation, and welfare for domesticated animals"
+Agriculture,Fisheries & Fishing,408,"fishing, commercial fishery regulation and conservation"
+Agriculture,R&D,498,agricultural research and development
+Agriculture,Other,499,other agricultural subtopics
+Labor,General,500,"general labor, employment, and pensions, including appropriations for government agencies regulating labor polic"
+Labor,Worker Safety,501, worker safety and protection and compensation for work-related injury and disease
+Labor,Employment Training,502,"job training for adult workers, workforce development, and efforts to retrain displaced workers"
+Labor,Employee Benefits,503,"all employee benefits, pensions, and retirement accounts, including government-provided unemployment insurance"
+Labor,Labor Unions,504,"labor unions, collective bargaining, and employer-employee relations"
+Labor,Fair Labor Standards,505,"fair labor standards such as the minimum wage and overtime compensation, and labor law"
+Labor,Youth Employment,506,"youth employment, child labor and job training for youths"
+Labor,Migrant and Seasonal,529,"migrant, guest and seasonal workers"
+Labor,Other,599,other labor policy
 Education,General,600,"general education policy, including appropriations for government agencies regulating education policy"
 Education,Higher,601,"higher education, student loans and education finance, and the regulation of colleges and universities"
 Education,Elementary & Secondary,602,"elementary and primary schools, school reform, safety in schools, and efforts to generally improve educational standards and outcomes"
@@ -125,7 +125,7 @@ Housing,R&D,1498,housing and community development research and development
 Housing,Other,1499,Other issues related to housing and community development
 Domestic Commerce,General,1500,"general domestic commerce, including approprations for government agencies regulating domstic commerce"
 Domestic Commerce,Banking,1501,the regulation of national banking systems and other non-bank financial institutions
-Domestic Commerce,Securities & Commodities,1502," the regulation and facilitation of securities and commodities trading, regulation of investments and related industries, and exchanges"
+Domestic Commerce,Securities & Commodities,1502,"the regulation and facilitation of securities and commodities trading, regulation of investments and related industries, and exchanges"
 Domestic Commerce,Consumer Finance,1504,"consumer finance, mortages, credit cards, access to credit records, and consumer credit fraud"
 Domestic Commerce,Insurance Regulation,1505,"insurance regulation, fraud and abuse in the insurance industry, the financial health of the insurance industry, and insurance availability and cost"
 Domestic Commerce,Bankruptcy,1507,"personal, commercial, and municipal bankruptcies"
@@ -168,7 +168,7 @@ Technology,R&D,1798,"space, science, technology, and communication research and 
 Technology,Other,1799,"other space, science, technology, and communication research and development"
 Foreign Trade,General,1800,general foreign trade and appropriations for government agencies generally regulating foreign trade
 Foreign Trade,Trade Agreements,1802,"trade negotiatons, disputes, and agreements, including tax treaties"
-Foreign Trade,Exports,1803," export regulation, subsidies, promotion, and control"
+Foreign Trade,Exports,1803,"export regulation, subsidies, promotion, and control"
 Foreign Trade,Private Investments,1804,international private business investment and corporate development
 Foreign Trade,Competitiveness,1806,productivity of competitiveness of domestic businsses and balance of payments issues
 Foreign Trade,Tariff & Imports,1807,"tariffs and other barriers to imports, import regulation and impact of imports on domestic industries"
@@ -211,4 +211,4 @@ Public Lands,Public Lands,2103,"natural resources, public lands, and forest mana
 Public Lands,Water Resources,2104,"water resources, water resource development and civil works, flood control, and research"
 Public Lands,Dependencies & Territories,2105,terroritial and dependency issues and devolution
 Public Lands,Other,2199,other public lands policy subtopics
-,Culture,2300,general cultural policy issues
+Culture,General,2300,general cultural policy issues

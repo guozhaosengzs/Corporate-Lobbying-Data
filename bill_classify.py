@@ -1,15 +1,22 @@
 import pandas as pd 
 import os.path
-
+from classification import CrossEncoderEventExtractor
+from pprint import pprint
 records_df = pd.read_csv('bill_assm.csv')
 
 df_classification = records_df.copy()
 df_classification.drop_duplicates(inplace=True, ignore_index=True)
 
-df_classification.to_csv('test.csv', index=False)
 df_classification['category'] = ""
 
 df_classification = df_classification.query("assembly_number == 88")
+
+category_df = pd.read_csv('category.csv')
+category_df['full_text'] = category_df['Subtopic'] + ' ' + category_df['Topic'] + ', ' + category_df['Description'] 
+# print(category_df['full_text'])
+
+cat_dict = dict(zip(category_df.full_text, category_df.Code))
+categories = list(cat_dict.keys())
 
 for i, row in df_classification.iterrows():
     bill = str(row.Bill).replace(' ', '')
@@ -19,14 +26,15 @@ for i, row in df_classification.iterrows():
     print(file_path)
 
     with open(file_path, encoding="utf8") as f:
-        contents = f.read().replace('\n', '')
+        bill_text = f.read().replace('\n', ' ')
+    print(bill_text)
 
-    print(contents)
+    extractor = CrossEncoderEventExtractor()
+    label = extractor.extract([bill_text], categories)[0]['events'][0]
 
 
-    df_classification.at[i,'category'] = 2512323
-    
+    df_classification.at[i,'category'] = cat_dict[label]
     break
-# print(df_classification)
+    
+df_classification.to_csv('assy_88_classify.csv')
 
-"iowa_general_assembly_83_HSB1.txt"

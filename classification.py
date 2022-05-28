@@ -247,12 +247,12 @@ class CrossEncoderEventExtractor(BaseEventExtractor):
             }
         return output
 
-
 # Sample usage
 if __name__ == '__main__':
 
-    texts = ['This is a great movie!', 'This movie is so boring. I don\'t like it.']
-    labels = ['positive', 'negative']
+    texts = ['This is a great movie!', 'This book is so boring. I don\'t like it.', 'I was walking on the street']
+    texts = ['This book is so boring. I don\'t like it.']
+    labels = ['movie', 'book', 'song', 'went out to run']
 
     # Alternative
     # extractor = KeyBERTEventExtractor()
