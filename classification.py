@@ -41,7 +41,7 @@ class KeyBERTEventExtractor(BaseEventExtractor):
     def __init__(
         self,
         model: str = 'all-mpnet-base-v2',
-        top_n_events: int = 4,
+        top_n_events: int = 5,
         temperature: float = 0.03
     ):
         self._model = KeyBERT(model)
@@ -138,7 +138,7 @@ class CrossEncoderEventExtractor(BaseEventExtractor):
     def __init__(
         self,
         model: str = 'cross-encoder/nli-MiniLM2-L6-H768',
-        top_n_events: int = 4,
+        top_n_events: int = 5,
         temperature: float = 0.1
     ):
         if torch.cuda.is_available():
