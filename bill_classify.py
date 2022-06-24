@@ -25,7 +25,7 @@ def main():
     categories = list(cat_dict.keys())
 
     extractor = KeyBERTEventExtractor()
-    extractor = CrossEncoderEventExtractor()
+    # extractor = CrossEncoderEventExtractor()
 
     for i, row in df_classification.iterrows():
         bill = str(row.Bill).replace(' ', '')
@@ -43,11 +43,11 @@ def main():
         
         labels = extractor.extract([bill_text], categories)[0]['events']
 
-        df_classification.at[i,'category1'] = cat_dict[labels[0]]
-        df_classification.at[i,'category2'] = cat_dict[labels[1]]
-        df_classification.at[i,'category3'] = cat_dict[labels[2]]
-        df_classification.at[i,'category4'] = cat_dict[labels[3]]
-        df_classification.at[i,'category5'] = cat_dict[labels[4]]
+        df_classification.at[i,'CAP_label1'] = cat_dict[labels[0]]
+        df_classification.at[i,'CAP_label2'] = cat_dict[labels[1]]
+        df_classification.at[i,'CAP_label3'] = cat_dict[labels[2]]
+        df_classification.at[i,'CAP_label4'] = cat_dict[labels[3]]
+        df_classification.at[i,'CAP_label5'] = cat_dict[labels[4]]
 
         df_classification.to_csv('assy_88_classify_first50_top5.csv', index=False)
 
