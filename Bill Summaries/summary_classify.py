@@ -20,6 +20,7 @@ def main():
 def classification(file_name):
 
     df = pd.read_csv(file_name)
+    size = df.shape[0]
     df['summary'] = df['summary'].astype(str)
 
     variable_list = ['CAP_label' + str(i) for i in range(1,6)] + ['CAP_score' + str(i) for i in range(1,6)] + ['MSCI_label' + str(i) for i in range(1,6)] + ['MSCI_score' + str(i) for i in range(1,6)] 
@@ -40,6 +41,7 @@ def classification(file_name):
     # extractor = CrossEncoderEventExtractor() ## Use this line for better but 100X times slower results
 
     for i, row in df.iterrows():
+        print(i, "entries out of", size)
         summary = row.summary
 
         if summary=='nan':
